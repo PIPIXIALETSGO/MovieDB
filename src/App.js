@@ -30,7 +30,7 @@ function App() {
     <div className="App">
       <div className="bg"></div>
       <Filter
-        popular={popular}
+        popular={popular} 
         setFilter={setFilter}
         activeGenre={activeGenre}
         setActiveGenre={setActiveGenre}
